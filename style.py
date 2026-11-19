@@ -418,7 +418,7 @@ def render_footer():
         </p>
 
         <p class="footer-subtitle">
-            Academic Mini Project | 2026
+            Academic Mini Project | Anshika Barde | 2026
         </p>
 
     </div>
